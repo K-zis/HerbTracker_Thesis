@@ -9,7 +9,7 @@ The technologies that this application uses:
 * MVVM Architecture according to Google
 * Machine Learning algorithms for Image Classification.
 
-The Machine Learning models have been developed in Python using Tensorflow 2.0 library, which allows transformation of the models that are compatible for Android Application Development.
+The Machine Learning models have been developed in Python using Tensorflow 2.0 library, which allows transformation to models that are compatible for Android Application Development.
 
 ### Sample App Screens
 | Home Screen | Classification Screen<br/>(from Camera) | Model Selection Option |
