@@ -5,6 +5,6 @@
 
 | Home Screen | Classification Screen<br/>(from Camera) | Model Selection Option |
 |-------------|-----------------------|------------------------|
-|<img src="img_files/1.jpg" alt="home_screen" width="200" height="400"/>|<img src="img_files/2.jpg" alt="classification_screen" width="200" height="400"/>|<img src="img_files/3.jpg" alt="model_selection_option" width="200" height="400"/>|
+|<img src="img_files/1.jpg" alt="home_screen" width="300" height="500"/>|<img src="img_files/2.jpg" alt="classification_screen" width="300" height="500"/>|<img src="img_files/3.jpg" alt="model_selection_option" width="300" height="500"/>|
 | Classification Screen<br/>(from library) | Map Screen |
-|<img src="img_files/4.jpg" alt="home_screen" width="200" height="400"/>|<img src="img_files/5.jpg" alt="home_screen" width="200" height="400"/>|
+|<img src="img_files/4.jpg" alt="home_screen" width="300" height="500"/>|<img src="img_files/5.jpg" alt="home_screen" width="300" height="500"/>|
