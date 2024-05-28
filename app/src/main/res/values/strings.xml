@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HerbTracker</string>
+    <string name="camera_title">CAMERA</string>
+    <string name="gallery_title">GALLERY</string>
+    <string name="map_title">MAP</string>
+    <string name="classification_title">CLASSIFICATION</string>
+    <string name="welcome_screen">Welcome to Herb Tracker App!</string>
+    <string name="btn_camera">Camera</string>
+    <string name="btn_gallery">Gallery</string>
+    <string name="btn_map">Map</string>
+    <string name="camera_icon">Camera Icon</string>
+    <string name="gallery_icon">Gallery Icon</string>
+    <string name="map_icon">Map Icon</string>
+    <string name="add_to_map">Add to Map</string>
+    <string name="home">Home</string>
+    <string name="homescreen">HomeScreen</string>
+    <string name="low_propability_text">Unrecognised photo element.</string>
+    <string name="motivation_moto">What are you going to explore today?!</string>
+</resources>
